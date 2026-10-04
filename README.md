@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Lucas Andrieski
 
-<!--
-**lcsandrieski-commits/lcsandrieski-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência de Dados**
+📊 Construindo minha jornada na área de dados
+🌱 Aprendendo, praticando e evoluindo um projeto de cada vez.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+Atualmente estou estudando **Ciência de Dados** e utilizando o GitHub para registrar minha evolução, compartilhar meus estudos e desenvolver meus primeiros projetos.
+
+Meu objetivo é transformar o conhecimento adquirido durante o curso em projetos práticos e, ao longo do tempo, construir minha experiência na área de dados.
+
+---
+
+## 📚 Atualmente estudando
+
+🐍 **Python**
+🗄️ **SQL**
+📊 **Análise de Dados**
+📈 **Estatística**
+🤖 **Machine Learning**
+
+---
+
+## 🚀 Minha jornada
+
+Este perfil vai acompanhar minha evolução durante meus estudos em Ciência de Dados.
+
+Aqui pretendo reunir exercícios, projetos e experimentos desenvolvidos ao longo do aprendizado.
+
+> 📌 Este é apenas o começo. Em breve, novos projetos estarão por aqui!
+
+---
+
+⭐ Obrigado por visitar meu perfil!
