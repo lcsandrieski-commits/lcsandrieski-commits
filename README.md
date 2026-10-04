@@ -1,37 +1,44 @@
+<div align="center">
+
 # 👋 Olá! Eu sou o Lucas Andrieski
 
-🎓 Estudante de **Ciência de Dados**
-📊 Construindo minha jornada na área de dados
-🌱 Aprendendo, praticando e evoluindo um projeto de cada vez.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=%3E+Iniciando+minha+jornada+em+Dados...;%3E+Estudante+de+Ci%C3%AAncia+de+Dados+%F0%9F%93%8A;%3E+Aprendendo+Python+%F0%9F%90%8D+e+SQL+%F0%9F%97%84%EF%B8%8F;%3E+Construindo+meus+primeiros+projetos+%F0%9F%9A%80;%3E+Sempre+buscando+aprender+e+evoluir." alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Atualmente estou estudando **Ciência de Dados** e utilizando o GitHub para registrar minha evolução, compartilhar meus estudos e desenvolver meus primeiros projetos.
+Sou estudante de **Ciência de Dados** e estou começando a construir minha base na área.
 
-Meu objetivo é transformar o conhecimento adquirido durante o curso em projetos práticos e, ao longo do tempo, construir minha experiência na área de dados.
+Utilizo este GitHub para registrar meus estudos, exercícios e projetos desenvolvidos durante o curso.
 
 ---
 
 ## 📚 Atualmente estudando
 
-🐍 **Python**
-🗄️ **SQL**
-📊 **Análise de Dados**
-📈 **Estatística**
-🤖 **Machine Learning**
+<div align="center">
+
+🐍 **Python**    🗄️ **SQL**    📊 **Análise de Dados**
+
+📈 **Estatística**    🤖 **Machine Learning**
+
+</div>
 
 ---
 
-## 🚀 Minha jornada
+## 🌱 Minha jornada
 
-Este perfil vai acompanhar minha evolução durante meus estudos em Ciência de Dados.
+**Aprender → Praticar → Evoluir.**
 
-Aqui pretendo reunir exercícios, projetos e experimentos desenvolvidos ao longo do aprendizado.
-
-> 📌 Este é apenas o começo. Em breve, novos projetos estarão por aqui!
+Este é o começo da minha jornada na área de dados. 🚀
 
 ---
+
+<div align="center">
 
 ⭐ Obrigado por visitar meu perfil!
+
+</div>
+
